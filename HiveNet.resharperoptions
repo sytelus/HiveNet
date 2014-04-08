@@ -1,0 +1,18 @@
+<Configuration>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\Form1.cs" offset="5902" line="175" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PolygoneMechanics.cs" offset="11147" line="280" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneEdge[]">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>

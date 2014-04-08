@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiveNet", "HiveNet\HiveNet.csproj", "{20C70E30-8339-47E1-87F0-E5E94A95AAC0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = HiveNet\\HiveNet.csproj
+		SccProjectName0 = \u0022$/HiveNet\u0022,\u0020BAAAAAAA
+		SccLocalPath0 = HiveNet
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{20C70E30-8339-47E1-87F0-E5E94A95AAC0}.Debug.ActiveCfg = Debug|.NET
+		{20C70E30-8339-47E1-87F0-E5E94A95AAC0}.Debug.Build.0 = Debug|.NET
+		{20C70E30-8339-47E1-87F0-E5E94A95AAC0}.Release.ActiveCfg = Release|.NET
+		{20C70E30-8339-47E1-87F0-E5E94A95AAC0}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

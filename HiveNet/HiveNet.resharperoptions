@@ -1,0 +1,172 @@
+<Configuration>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\Form1.cs" offset="2869" line="165" column="18" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PolygoneMechanics.cs" offset="8534" line="225" column="12" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\AssemblyInfo.cs" offset="2335" line="28" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerMessageHandlerBase.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerMessageListener.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerMessageHandlerCollection.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\IPeerMessageHandler.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerMessage.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerEndPointCollection.cs" offset="0" line="0" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerNetworkAddress.cs" offset="0" line="15" column="0" />
+      <TrackedFile location="C:\shital\Visual Studio Projects\HiveNet\HiveNet\PeerEndPoint.cs" offset="0" line="-1" column="-1" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@Astrila.HiveNet.PolygoneEdgeType">
+      <Item value="G" priority="0" />
+      <Item value="R" priority="0" />
+      <Item value="B" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HiveNet.AddRequestRoutingInfo">
+      <Item value="PolygoneForOriginCredit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HiveNet.PolygoneDirectionType">
+      <Item value="Clockwise" priority="1" />
+      <Item value="None" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HiveNet.TriPointType">
+      <Item value="None" priority="1" />
+      <Item value="G" priority="0" />
+      <Item value="R" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Astrila.HiveNet.PolygoneEndType">
+      <Item value="N" priority="0" />
+      <Item value="S" priority="0" />
+      <Item value="Uninitialized" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HiveNet.ConnectionCreditType">
+      <Item value="RG_G" priority="0" />
+      <Item value="RB_R" priority="1" />
+      <Item value="RB_B" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:double">
+      <Item value="ToString" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HiveNet.TriPolygoneType">
+      <Item value="None" priority="3" />
+      <Item value="GB" priority="1" />
+      <Item value="RG" priority="4" />
+      <Item value="RB" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System">
+      <Item value="Collections" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.GraphicPolygoneNode">
+      <Item value="ConnectToIncomingNode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HiveNet.TriPointType">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneNode.EdgePair">
+      <Item value="Edge1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="ToArray" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneEdge[]">
+      <Item value="Length" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HiveNet.AddInPolygoneRequestInfo">
+      <Item value="IsRestrictToPolygoneType" priority="0" />
+      <Item value="GetPointIndicesToTry" priority="0" />
+      <Item value="LastSentFromPolygoneType" priority="1" />
+      <Item value="LastSentFromPointType" priority="2" />
+      <Item value="OriginPoint" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneEdge">
+      <Item value="LeftEdge" priority="0" />
+      <Item value="RightPolygoneID" priority="6" />
+      <Item value="LeftPolygoneID" priority="6" />
+      <Item value="FuseEdges" priority="0" />
+      <Item value="EdgeType" priority="5" />
+      <Item value="LeftEndType" priority="3" />
+      <Item value="Index" priority="0" />
+      <Item value="ConnectedNode" priority="4" />
+      <Item value="EndType" priority="2" />
+      <Item value="EdgeOnRight" priority="0" />
+      <Item value="IsConnected" priority="0" />
+      <Item value="IsConnectableToEdge" priority="1" />
+      <Item value="EdgeOnLeft" priority="2" />
+      <Item value="OppositePolygoneID" priority="3" />
+      <Item value="RightEndType" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HiveNet.HexPoint._LastGuildNumber">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="Assert" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HiveNet.HexPoint">
+      <Item value="AddedToPoint" priority="1" />
+      <Item value="TryAddPoint" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="Y" priority="3" />
+      <Item value="Offset" priority="0" />
+      <Item value="Equals" priority="0" />
+      <Item value="X" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneNode">
+      <Item value="Edges" priority="0" />
+      <Item value="ConnectToIncomingNode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.NodeEdge">
+      <Item value="SideType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneNode.ConnectableEdgePair">
+      <Item value="OtherNodeEdge" priority="0" />
+      <Item value="MyNodeEdge" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HiveNet.AddPointRequestInfo">
+      <Item value="SentFromPointType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="2" />
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Astrila.HiveNet.PolygoneEdgePair">
+      <Item value="Edge2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawLine" priority="2" />
+      <Item value="VisibleClipBounds" priority="0" />
+      <Item value="DrawEllipse" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HiveNet.RoutingInfoForAddRequest">
+      <Item value="PolygoneTypeForCredit" priority="0" />
+      <Item value="OriginPoint" priority="2" />
+      <Item value="PolygoneForOriginCredit" priority="4" />
+      <Item value="GetMyCreditTypeForAvailableCredit" priority="0" />
+      <Item value="OriginCredit" priority="5" />
+      <Item value="OriginatedFromPointType" priority="3" />
+      <Item value="SentFromPointType" priority="4" />
+      <Item value="DirectionForOriginCredit" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Collections">
+      <Item value="CollectionBase" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@">
+      <Item value="ToString" priority="0" />
+      <Item value="OppositePolygoneID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HiveNet.HexPoint.randomGenerator">
+      <Item value="Next" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+</Configuration>
